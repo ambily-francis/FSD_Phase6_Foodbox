@@ -1,0 +1,17 @@
+.back {
+  background-color: rgb(18, 19, 18);
+  /* background-image: url('../../assets/images/back.webp'); */
+  margin: 0px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.h3 {
+  text-align: center;
+}
+
+.border {
+  color: rgb(175, 171, 168);
+  width: 30rem;
+  padding: 20rem;
+}
